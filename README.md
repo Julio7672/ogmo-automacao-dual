@@ -1,0 +1,1 @@
+# ogmo-automacao-dual
